@@ -5,7 +5,7 @@
 
 Sou estudante do curso de sistemas para internet.
 
-- 👨🏼‍🎓 Atualmente estou atuando com deployer de sistemaas logisticos.
+- 👨🏼‍🎓 Atualmente estou atuando com deployer de sistemaas logísticos.
 - 🌱 Estou me aperfeiçoando na linguegem python.
 - 👨🏽‍💻 Conhecimento em banco de dados e JAVA☕. 
 
