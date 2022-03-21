@@ -5,9 +5,9 @@
 
 Sou estudante do curso de sistemas para internet.
 
-- 👨🏼‍🎓 Atualmente estou atuando com deployer de sistemaas logísticos.
-- 🌱 Estou me aperfeiçoando na linguegem python.
-- 👨🏽‍💻 Conhecimento em banco de dados e JAVA☕. 
+- 👨🏼‍🎓 Atualmente estou atuando com consultor de sistemas logísticos.
+- 🌱 Estou me aperfeiçoando na linguagem python.
+- 👨🏽‍💻 Conhecimentos em banco de dados e JAVA☕. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=raphaelpcarlos)
 
